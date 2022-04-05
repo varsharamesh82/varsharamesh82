@@ -1,15 +1,17 @@
 
-<h1 align="center">I'm <a href="https://github.com/varsharamesh82">Varsha Ramesh <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<div align="center">
+<h1> Hello there ,  fellow  <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> I'm <a href="https://github.com/varsharamesh82">Varsha Ramesh <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h3 align="center">A passionate frontend developer from India</h3>
 
+<div align="left">
+  
 - 🔭 I’m currently working on **Hair scalp app**
 
 - 🌱 I’m currently learning **React, Redux**
 
 - 📄 Know about my experiences: [Resume ](https://drive.google.com/file/d/1yAIMQIFYthRTUp_ASLkH7rm-oqfbrLII/view?usp=sharing)
   
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  <p><img align="right" src="https://github.com/varsharamesh82/varsharamesh82/blob/main/coding.gif", width="350" height="350" alt="varsha" /></p>
 
 <h3 align="left">Connect with me 📬 </h3>
 <p align="left">
@@ -24,7 +26,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varsharamesh82&show_icons=true&locale=en&layout=compact&theme=merko" alt="varsharamesh82" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varsharamesh82&show_icons=true&locale=en&layout=compact&theme=merko" alt="varsharamesh82" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varsharamesh82&show_icons=true&locale=en&theme=merko" alt="varsharamesh82" /></p>
 
