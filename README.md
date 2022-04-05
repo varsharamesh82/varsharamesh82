@@ -8,7 +8,7 @@
 
 <div align="left">
   
-- 🔭 I’m currently working on **Hair scalp app**
+- 🔭 I’m currently working on **Hair Scalp Android App to inspect and diagnose diseases**
 
 - 🌱 I’m currently learning **React, Redux**
 
