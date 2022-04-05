@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Varsha Ramesh</h1>
+
+<h1 align="center">I'm <a href="https://github.com/varsharamesh82">Varsha Ramesh <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Hair scalp app**
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 📫 How to reach me **varsharamesh82@gmail.com**
+- 📄 Know about my experiences: [Resume ](https://drive.google.com/file/d/1yAIMQIFYthRTUp_ASLkH7rm-oqfbrLII/view?usp=sharing)
+  
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yAIMQIFYthRTUp_ASLkH7rm-oqfbrLII/view?usp=sharing](https://drive.google.com/file/d/1yAIMQIFYthRTUp_ASLkH7rm-oqfbrLII/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 📬 </h3>
 <p align="left">
-<a href="https://linkedin.com/in/varsha-ramesh-621647172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha-ramesh-621647172" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varshacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varshacodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/varsha-ramesh-621647172" target="blank"><img align="center" src="https://img.shields.io/badge/Varsha Ramesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:varsharamesh82@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/varsharamesh82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/varsharamesh82" target="blank" ></a>
 </p>
+
+
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  &nbsp; Languages and Tools
 <p align="left">
