@@ -7,12 +7,6 @@
 </div>
 <div align="left">
   
-- 🔭 I’m currently working on **Hair Scalp Android App to inspect and diagnose diseases**
-
-- 🌱 I’m currently learning **React, Redux**
-
-- 📄 Know about my experiences: [Resume ](https://drive.google.com/file/d/1yAIMQIFYthRTUp_ASLkH7rm-oqfbrLII/view?usp=sharing)
-
 <h3>📬 Connect with me</h3>
 <p align="left">
     <a href="https://linkedin.com/in/varsha-ramesh-621647172" target="blank">
